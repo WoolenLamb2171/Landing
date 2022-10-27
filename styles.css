@@ -50,7 +50,7 @@ h1{
 }
 
 #link1{
-    font-size: 25px;
+    
     margin-left: 20px;
 }
 
@@ -105,13 +105,23 @@ p{
 .link:link,
 .link:visited,
 .link:active{
+    font-size: 25px;
+    margin-left: 5px;
     color: aliceblue;  
     text-decoration: none;  
 }
 
 .link:hover{
+    font-size: 25px;
+    margin-left: 5px;
     color: aliceblue;
     text-decoration: underline;
+}
+
+.slash{
+    font-size: 25px;
+    color: aliceblue;
+    margin-left: 5px;
 }
 
 .bottomText{
@@ -123,4 +133,9 @@ p{
     align-items: center; 
     margin-right: 20px;
     color: aliceblue;
+}
+
+#link1{
+    
+    margin-left: 20px;
 }
