@@ -7,7 +7,6 @@
 .nickName{
     display: flex;
     background-color: rgba(207, 18, 18, 0.858);
-    width: 1440px;
     height: 200px;
     left: 0px;
     top: 0px;
@@ -31,7 +30,6 @@ h1{
 
 .image{
     display: flex;
-    width: 1440px;
     height: 900px;
     left: 0px;
     top: 200px;
@@ -41,7 +39,6 @@ h1{
 
 .links{
     display: flex;
-    width: 1440px;
     height: 100px;
     left: 0px;
     top: 1280px;
@@ -60,7 +57,6 @@ a{
 
 .info{
     display: flex;
-    width: 1440px;
     height: 900px;
     left: 0px;
     top: 0px;
@@ -84,7 +80,6 @@ p{
 .bottomSideBar{
     display: flex;
     background-color: rgba(207, 18, 18, 0.858);
-    width: 1440px;
     height: 200px;
     left: 0px;
     top: 2227px;
